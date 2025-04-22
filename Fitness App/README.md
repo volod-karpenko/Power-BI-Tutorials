@@ -86,4 +86,4 @@ At the end, I'd like to share one more picture of the report to help you underst
 
 ## :raising_hand_man: Author
 Volodymyr Karpenko  
-[LinkedIn](https://www.linkedin.com/in/volod-karpenko/) • <a href="mailto:volod1701@gmail.com">Email (volod1701@gmail.com)</a>
+[LinkedIn](https://www.linkedin.com/in/volod-karpenko/) • <a href="mailto:volod1701@gmail.com">Email </a>(volod1701@gmail.com)
