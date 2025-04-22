@@ -68,7 +68,7 @@ user_dates = np.random.choice(activty_dates, size = dates_sample_size, replace =
 2. Open Power BI Desktop
 3. Create a new report and import data from generated `.csv` files in `Mock Data` folder
 4. Start building visuals and measures 
-5. Use Power Point to create a background for your report
+5. Use Power Point to create a background for your report (<small>*optional*</small>)
 
 ## :pill: What Can Be Improved?
 1. **Measures** - They aren't perfect and I'm believe there are better ways to calculate (for example) the **Health Score** 
@@ -86,4 +86,4 @@ At the end, I'd like to share one more picture of the report to help you underst
 
 ## :raising_hand_man: Author
 Volodymyr Karpenko  
-[LinkedIn](https://www.linkedin.com/in/volod-karpenko/) • [Email](mailto:volod1701@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/volod-karpenko/) • <a href="mailto:volod1701@gmail.com">Email (volod1701@gmail.com)</a>
