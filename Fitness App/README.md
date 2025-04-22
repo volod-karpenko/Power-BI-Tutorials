@@ -42,12 +42,12 @@ Fitness App/
 
 ## :paperclip: Data Source
 The report is built on the mock data and, unfortunatelly, doesn't use any dynamic real-world one. Anyway, it was also an interesting task to generate the data close to real-world and I've taught a new tip of how to generate the data evenly distributed over some period & I'm glad to share the code snippet right here:
-<pre>
+
 ```python
 activty_dates = pd.date_range(start = "2022-01-01", end = "2025-06-30", freq = "1D")
 dates_sample_size = 950
 user_dates = np.random.choice(activty_dates, size = dates_sample_size, replace = False)
-</pre>
+```  
 
 ## :hammer_and_wrench: Tools Used
 - Power BI Desktop
