@@ -1,19 +1,20 @@
 # :bar_chart: Power BI Fitness App Project 
 
 ## :pushpin: Overview
-This project allows to track user's fitness data and monitor the following metrics: 
+This project allows to track user's fitness data and monitor the following: 
 - **Overall Health Score**
 - **Average Heart Rate**
 - **Average Quantity of Steps**
 - **Average Quantity of Calories Consumed**
 - **Total of Exercise Sessions**
-and also there is a **Health Score** line chart which helps observe user's activity over the time and get insights about possible trends
+- **Health Score** line chart which helps observe user's activity over the time and get insights about possible trends  
 <small>*All the metrics are measured over the last 30 days*</small>
 
 ## :framed_picture: Report Preview
 ![Report Preview Screenshot](Screenshots/preview.png)
 
 ## :file_folder: Project Structure
+<pre>
 Fitness App/
 ├─ Assets/
 │  ├─ Canvas Background/
@@ -36,16 +37,17 @@ Fitness App/
 │  ├─ preview.png
 ├─ Fitness App.pbix
 ├─ README.md
+</pre>
 
 ## :hammer_and_wrench: Tools Used
 - Power BI Desktop
-- Python <small>for generating mock data</small>
+- Python (<small>for generating mock data</small>)
     - `faker`
     - `pandas`
     - `numpy`
     - `random`
     - `pathlib`
-- Power Point <small>for building report design (canvas background)</small>
+- Power Point (<small>for building report design, canvas background</small>)
 
 ## :rocket: How To Use?
 ### The easiest way:
@@ -60,11 +62,11 @@ Fitness App/
 
 ## :pill: What Can Be Improved?
 1. **Measures** - They aren't perfect and I'm believe there are better ways to calculate (for example) the **Health Score** 
-2. **User avatars** - Currently user avatars are extracted from external URLs. If the hosting site becomes unavailable or its API changes, the images may fail to display. :wrench: *To improve this*, the avatars could be downloaded, converted to base64, and embedded directly. 
+2. **User avatars** - Currently user avatars are extracted from external URLs. If the hosting site becomes unavailable or its API changes, the images may fail to display. :wrench: *To improve this*, the avatars could be downloaded, converted to base64, and embedded directly
 
 ## :books: References & Free Resources 
-- First of all, this project is a follow-along one of the [youtube tutorial](https://youtu.be/cYwioeHu_OU?si=PkgDbhqE-xiPQ7-s)
-- Secondly, it was a challenge to find user avatars with rounded corners and no background. I am very grateful to the author of [this website](https://avatar-placeholder.iran.liara.run/) as it shares really beautiful and high-quality background-free rounded user avatars
+- First of all, this project is a follow-along from the [youtube tutorial](https://youtu.be/cYwioeHu_OU?si=PkgDbhqE-xiPQ7-s)
+- Secondly, it was a challenge to find user avatars with rounded corners and no background. I am very grateful to the author of [this website](https://avatar-placeholder.iran.liara.run/) as the website shares really beautiful and high-quality background-free rounded user avatars
 - The icons are downloaded from [flaticon website](https://www.flaticon.com/)
 - To troubleshoot most of the problems that I faced during the project development stage I asked for help of my faithful companions [1](https://chatgpt.com/) and [2](https://www.google.com/)
 
@@ -73,5 +75,5 @@ At the end, I'd like to share one more picture of the report to help you underst
 ![Report Preview Screenshot](Screenshots/full_view.png)
 
 ## :raising_hand_man: Author
-Volodymyr Karpenko
+Volodymyr Karpenko  
 [LinkedIn](https://www.linkedin.com/in/volod-karpenko/) • [Email](mailto:volod1701@gmail.com)
