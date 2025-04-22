@@ -1,13 +1,14 @@
 # :bar_chart: Power BI Fitness App Project 
 
 ## :pushpin: Overview
-This project allows to track user's fitness data and monitor the following: 
+This project helps tracking user's fitness data and monitor the following: 
 - **Overall Health Score**
 - **Average Heart Rate**
 - **Average Quantity of Steps**
 - **Average Quantity of Calories Consumed**
 - **Total of Exercise Sessions**
-- **Health Score** line chart which helps observe user's activity over the time and get insights about possible trends  
+- **Health Score** line chart which helps observing user's activity over the time and get insights about possible trends  
+
 <small>*All the metrics are measured over the last 30 days*</small>
 
 ## :framed_picture: Report Preview
